@@ -30,6 +30,3 @@ function cambiarPorI(texto) {
     }
     return textoFinal
 }
-
-console.log("texto literal");
-console.log(cambiarPorI("texto literal"));
